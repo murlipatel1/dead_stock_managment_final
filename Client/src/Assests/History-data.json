@@ -1,0 +1,42 @@
+[
+    {
+        "No" : "1",
+        "Name" : "Maggie Masala",
+        "ID" : "34DCY67",
+        "Quantity" : "900",
+        "Date" : "12-10-2022",
+        "Status" : "Ordered"
+    },
+    {
+        "No" : "2",
+        "Name" : "Curry Masala",
+        "ID" : "32RTV67",
+        "Quantity" : "90",
+        "Date" : "2-9-2022",
+        "Status" : "Delivered"
+    },
+    {
+        "No" : "3",
+        "Name" : "Waffels",
+        "ID" : "84TVC78",
+        "Quantity" : "210",
+        "Date" : "8-10-2022",
+        "Status" : "Dispatched"
+    },
+    {
+        "No" : "4",
+        "Name" : "Diet Coke",
+        "ID" : "53MNT52",
+        "Quantity" : "200",
+        "Date" : "11-10-2022",
+        "Status" : "Preparing-Dispatch"
+    },
+    {
+        "No" : "5",
+        "Name" : "Tea Masala",
+        "ID" : "52IPL13",
+        "Quantity" : "30",
+        "Date" : "3-10-2022",
+        "Status" : "Expired"
+    }
+]

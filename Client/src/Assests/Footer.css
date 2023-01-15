@@ -1,0 +1,126 @@
+.footer{
+    margin: 0;
+    padding: 0;
+    height: 52vh;
+   /* width: 100px; margin-left: 10px;  */
+    position: relative;
+    background-color: #202020;
+    padding: 10px 1px ;
+    overflow: hidden;
+    /* width: 200px; overflow: hidden; */
+
+    
+}
+
+ .container{
+    width: 110%;
+    max-width: 1170px;
+    /* background-color: rgb(210, 91, 91); */
+   /* margin: auto; */
+}
+.row{
+    position: relative;
+    left: -50px;
+    width: 120%;
+    margin-left: -60px;
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+.col{
+    left: 130px;
+    position: relative;
+    top: 5px;
+    width: 20%;
+    padding: 1px 1px;
+}
+ul{
+    list-style: none;
+}
+.col h4{
+    font-size: 18px;
+    color: #ffffff;
+    /* text-transform: capitalize; */
+    margin-bottom: 35px;
+    font-weight: 400;
+    position: relative;
+   
+}
+.col h4::before{
+    content: '';
+    position:absolute ;
+    left: 0;
+    bottom:-10px;
+    background-color: #e91e63;
+    height: 2px;
+    box-sizing: border-box;
+    width: 100px;
+}
+.col ul li:not(:last-child){
+    margin-bottom: 10px;
+}
+.col ul li a {
+    position: relative;
+    left: -40px;
+    padding: 10px -10px;
+    font-size: 16px;
+    text-transform: capitalize;
+    columns: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color:#bbbbbb;
+    transition: all 0.3s ease;
+    
+} 
+.col ul li a:hover{
+    color: #ffffff;
+    padding-left: 8px;
+}
+.social-links{
+    letter-spacing: 2px;
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+   
+
+}
+.col .social-links a{
+    
+    display: inline-block;
+    width:40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin-right: 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.2s ease;
+
+
+} 
+.col .social-links a:hover{
+    color: #24262b;
+    background-color: #ffffff;
+    /* padding-left: 8px; */
+}
+
+/* responsive */
+@media  (max-width:767px) {
+    .col{
+        width: 50%;
+        margin-bottom:30px;
+
+    }
+    
+}
+@media  (max-width:574px) {
+    .col{
+        width: 100%;
+        margin-bottom:30px;
+
+    }
+    
+}
+.social-links{
+    padding: 0 -50px ;
+}

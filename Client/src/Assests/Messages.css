@@ -1,0 +1,76 @@
+.Messages{
+    margin-left: 325px;
+    font-family: 'Raleway';
+}
+.info-text{
+    text-align: center;
+    padding: 2em;
+}
+.info-text div{
+    font-weight: 900;
+    font-size: 38px;
+    color: grey;
+    /* text-decoration: underline #c9c9c9 2px; */
+}
+.info-text p{
+    font-size: 22px;
+}
+.total-products{
+    font-size: 20px;
+    color: grey;
+    font-weight: lighter;
+    text-align: center;
+    padding : -1em;
+    padding-bottom: 1.5em;
+}
+.Expiry-details{
+    padding: 1em;
+    padding-left: 3em;
+    display: inline-block;
+}
+.Expiry-details ol{
+    font-size: 25px;
+    color: grey;
+}
+.Expiry-details ol li{
+    text-decoration: underline;
+    font-weight: 600;
+}
+.Expiry-details ul{
+    padding-bottom: 3.5em;
+    padding-top: 1.5em;
+    padding-left: 0.5em;
+    text-decoration: none;
+}
+#Product-name{
+    font-weight: 600;
+    font-size: 30px;
+    text-decoration: underline rgb(198, 198, 198);
+}
+.Expiry-details ul li{
+    font-size: 20px;
+    color: rgb(111, 111, 111);
+    font-weight: 200;
+    list-style: none;
+    padding: 17px;
+    text-decoration: none;
+}
+.Expiry-period{
+    /* display: inline-block; */
+    padding: 2em;
+    /* position: relative;  */
+    float: right;
+    /* right: 250px; */
+    padding-top: 1.5in;
+    padding-right: 2in;
+    text-align: center;
+    color: grey;
+}
+.Expiry-period h1, h2{
+    font-size: 2.3em;
+    color: grey;
+}
+.Expiry-period h1{
+    position: relative;
+    top: 14px;
+}

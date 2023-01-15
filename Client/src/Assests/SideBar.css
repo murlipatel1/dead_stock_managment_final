@@ -1,0 +1,64 @@
+.sidenav{
+    height: 100%;
+    width: 325px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    overflow-x: hidden;
+    background-color: #1F2D42;
+    /* background-color: black; */
+    
+}
+.logo{
+    text-align: center;
+    padding: 1.8em;
+    font-weight: 900;
+    font-size: 30px;
+}
+#logo {
+    color: #f1f1f1;
+}
+.links div{
+    padding: 5%;
+    text-align: center;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(194, 194, 194);
+}
+.links div:hover{
+    background-color: #274572;
+    /* background-color: rgb(97, 95, 95); */
+}
+.links a{
+
+    /* border-bottom: 1px solid white; */
+    color: rgb(226, 224, 224);
+    padding: 1.1em;
+    text-decoration: none;
+}
+/* .links div{
+    border-radius: 5px;
+    border-bottom: 1px solid gray;
+
+} */
+/* .links b{
+    padding-left: 15px;
+} */
+.more-links{
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 6em;
+}
+.more-links div{
+    padding: 5%;  
+}
+.more-links a{
+    color: #fff;
+    text-decoration: none;
+}
+.more-links div:hover{
+    background-color: #335a95;
+}

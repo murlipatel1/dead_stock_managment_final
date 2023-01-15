@@ -1,0 +1,12 @@
+[
+    
+    {   
+        "ProductName" : "Milk",
+        "ProductID" : "19YTC36",
+        "Quantity": "65",
+        "Status": "In-Stock",
+        "Expiry" : "50 Days",
+        "Location" : "Warehouse 3, Batch 8"
+    }
+
+]

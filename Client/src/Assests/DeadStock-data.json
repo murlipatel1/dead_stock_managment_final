@@ -1,0 +1,42 @@
+[
+    {
+        "No":1,
+        "Name": "Red Bull",
+        "ID": "89CEE47",
+        "Quantity": 15,
+        "Location": "Warehouse 3, Batch 5",
+        "Date": "10-10-2022"
+    },
+    {
+        "No":2,
+        "Name": "Amul Sweets",
+        "ID": "19DGE16",
+        "Quantity": 25,
+        "Location": "Warehouse 1, Batch 1",
+        "Date": "30-9-2022"
+    },
+    {
+        "No":3,
+        "Name": "Fanta",
+        "ID": "29CWR69",
+        "Quantity": 9,
+        "Location": "Warehouse 2, Batch 12",
+        "Date": "25-9-2022"
+    },
+    {
+        "No":4,
+        "Name": "M&M Chocolates",
+        "ID": "29UCI21",
+        "Quantity": 65,
+        "Location": "Warehouse 1, Batch 1",
+        "Date": "14-10-2022"
+    },
+    {
+        "No":5,
+        "Name": "White Cheese popcorn",
+        "ID": "38CUE48",
+        "Quantity": 28,
+        "Location": "Warehouse 2, Batch 3",
+        "Date": "7-10-2022"
+    }
+]

@@ -1,0 +1,51 @@
+.History{
+    margin-left: 325px;
+    font-family: 'Raleway'; 
+}
+.left-upper-half{
+    float: left;
+    width: 60%;
+    position: relative;
+}
+#left-texts li{
+    display: inline;
+}
+#Stock{
+    font-weight: 900;
+    font-size: 38px;
+    color: #737373;
+    padding-right: 15px;
+}
+#search{
+    padding-left: 1em;
+}
+#search input{
+    padding: 1em;
+    
+}
+.left-lower-half{
+    padding-left: 2.5em;
+}
+.Search{
+    padding: 20em;
+}
+.right-upper-half{
+    text-align: center;
+    font-weight: 100;
+    font-size: 16px;
+    color: #737373;
+    padding: -1em;
+    position: relative;
+    z-index: 1;
+
+}
+.right-upper-half p{
+    position: relative;
+    top: 40px;
+}
+.right-upper-half #History{
+    font-size: 2em;
+    position: relative;
+    top: 15px;
+    left: 4px;
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "Name": "Chips",
+        "ID" : "45TBC89",
+        "Location": "Warehouse 3, Batch 8",
+        "":" ",
+        "Expiry": " 450 Days",
+        "Quantity": "765",
+        "Status": "In-Stock"
+    },
+    {
+        "id": 2,
+        "Name": "Murmura",
+        "ID" : "25IOC89",
+        "Location": "Warehouse 5, Batch 2",
+        "Expiry": " 1250 Days",
+        "Quantity": "569",
+        "Status": "In-Stock"
+    },
+    {
+        "id": 3,
+        "Name": "Milk",
+        "ID" : "19YTC36",
+        "Location": "Warehouse 8, Batch 1",
+        "Expiry": " 50 Days",
+        "Quantity": "65",
+        "Status": "In-Stock"
+    },
+    {
+        "id": 4,
+        "Name": "Pickle",
+        "ID" : "71RCD89",
+        "Location": "Warehouse 1, Batch 3",
+        "Expiry": " 568 Days",
+        "Quantity": "125",
+        "Status": "In-Stock"
+    },
+    {
+        "id": 5,
+        "Name": "Poppins",
+        "ID" : "27YCN54",
+        "Location": "Warehouse 7, Batch 5",
+        "Expiry": " 78 Days",
+        "Quantity": "25",
+        "Status": "In-Stock"
+    }
+]

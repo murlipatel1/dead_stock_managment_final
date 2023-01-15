@@ -1,0 +1,210 @@
+.about{
+	position: relative;
+	margin: 0;
+	padding: 0;
+	/* background-color: rgba(95, 92, 92, 0.33); */
+}
+.about-title{
+	position: relative;
+	font-weight: 900;
+    color: rgb(196, 195, 195);
+    background-color: black;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 60px;
+    /* display: block; */
+    bottom: 10px;
+
+}
+.about-title div{
+	/* max-height:auto ; */
+	padding: 0;
+	font-weight: 900;
+}
+.Credits-page{
+	position: relative;
+    margin: 0;
+    width: 100%;
+    position: absolute;
+    height: 140vh;
+    /* padding: 10px 10px; */
+	background-color: rgb(7, 7, 7);
+	
+}
+
+/* section::before { */
+	/* content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(#DA22FF, #9733EE);
+	clip-path: circle(30% at right 70%);
+}
+
+section::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(#E55D87, #5FC3E4);
+	clip-path: circle(20% at 10% 10%);
+	
+} */
+
+.card1{
+	padding: 10px 10px;
+	/* box-shadow: 0px 30px 40px -20px white; */
+}
+.card1:hover{
+	color: black;
+	/* box-shadow: 0px 30px 40px -20px white; */
+
+}
+
+
+.container {
+	
+    left: 200px;
+    width: 75%;
+	position: relative;
+    top: 5px;
+	z-index: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin: 40px 0;
+
+}
+
+.container .card1{
+	/* box-shadow: 0px 10px 10px -10px white; */
+	/* border: 1px solid rgb(111, 111, 111); */
+	position: relative;
+	width: 300px;
+	height:400px;
+	background: rgb(30, 30, 30);
+	margin: 20px;
+	/* box-shadow: 0 1px 1px white; */
+	border-radius: 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	backdrop-filter: blur(10px);
+}
+.container .card1:hover{
+	box-shadow: 0 1px 20px black;
+}
+
+.container .card1 .content {
+	
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	transition: 0.5s;
+}
+
+.container .card1:hover .content1 {
+	
+	transform: translateY(-20px);
+}
+
+.container .card1 .content1 .imgBx {
+	position: relative;
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+}
+
+.container .card1 .content1 .imgBx img {
+	padding: 10px 0;
+	position: absolute;
+	top: -10px;
+	left: 25px;
+	width: 90%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.container .card1 .content1 .contentBx h3 {
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: 500;
+	font-size: 18px;
+	text-align: center;
+    position: relative;
+    top: 3px;
+
+	/* margin: 20px 0 10px; */
+	/* line-height: 1.1em; */
+}
+
+
+.container .card1 .content1 .contentBx h3 p {
+    position: relative;
+    top: -10px;
+	font-size: 12px;
+	font-weight: 300;
+	text-transform: initial;
+}
+
+.container .card1 .sci {
+	position: absolute;
+	bottom: 50px;
+	display: flex;
+}
+
+.container .card1 .sci li {
+	list-style: none;
+	margin: 0 10px;
+	transform: translateY(40px);
+	transition: 0.5s;
+	opacity: 0;
+}
+
+.container .card1:hover .sci li {
+	
+	transform: translateY(0px);
+	opacity: 1;
+}
+
+.container .card1 .sci li a {
+    position: relative;
+    left: -21px;
+	color: #fff;
+	font-size: 20px;
+	font-family: 'Raleway',sans-serif;
+	text-decoration: underline 0.5px;
+}
+
+.Main-credit-text{
+    position: relative;
+    top: -100px;
+	color: #ffffff;
+	text-align: center;
+	/* padding: 5em; */
+	/* padding-bottom: 2.5em; */
+}
+
+
+.Main-credit-text > h3 {
+	font-family: 'Raleway', sans-serif;
+}
+
+#Product {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 350;
+	padding-top: 0cm;
+}
+
+.Main-credit-text > p {
+	font-family: 'Raleway', sans-serif;
+	padding-top: 0cm;
+}   

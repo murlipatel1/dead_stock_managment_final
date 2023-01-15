@@ -1,0 +1,45 @@
+.product-info{
+    margin-left: 325px;
+    font-family: 'Raleway','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#text-heading {
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(120, 192, 255);
+}
+#product-name{
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-weight: 800;
+    font-size: 30px;
+    color: rgb(128, 204, 255);
+}
+.pdct-information{
+    width: 40%;
+    padding-top: 1.5em;
+    padding-left: 2em;
+    float: left;
+}
+.particular-item-detail li{
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+    color: rgb(109, 109, 109);
+}
+.product-chart{
+    float: right;
+    position: relative;
+    padding: 1em;
+}
+.product-chart p{
+    font-size: 25px;
+    padding: 1em; 
+    padding-right: 2.5em;
+    font-weight: 800;
+    color: rgb(128, 204, 255);
+}
+.pie-chart{
+    padding: 1em;
+    padding-left: 1.5em;
+}

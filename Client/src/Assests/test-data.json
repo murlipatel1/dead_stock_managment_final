@@ -1,0 +1,56 @@
+[ 
+    {
+        "Name" : "Doritos",
+        "ID" : "23FVY670",
+        "Expiry" : "9 Days",
+        "Status" : "In-stock",
+        "Quantity" : "18",
+        "Location" : "Warehouse 1, batch 2",
+        "Expiry-time" : "9"
+    },
+    {
+        "Name" : "Uncle chips",
+        "ID" : "48TCU879",
+        "Expiry" : "19 Days",
+        "Status" : "In-stock",
+        "Quantity" : "23",
+        "Location" : "Warehouse 2, batch 6",
+        "Expiry-time" : "19"
+    },
+    {
+        "Name" : "Coke",
+        "ID" : "25GNI27",
+        "Expiry" : "23 Days",
+        "Status" : "In-stock",
+        "Quantity" : "128",
+        "Location" : "Warehouse 8, batch 3",
+        "Expiry-time" : "23"
+    },
+    {
+        "Name" : "Meggie Masala",
+        "ID" : "25TRC80",
+        "Expiry" : "30 Days",
+        "Status" : "In-stock",
+        "Quantity" : "13",
+        "Location" : "Warehouse 3, batch 6",
+        "Expiry-time" : "30"
+    },
+    {
+        "Name" : "Lays cream and onion",
+        "ID" : "29RWA98",
+        "Expiry" : "25 Days",
+        "Status" : "In-stock",
+        "Quantity" : "32",
+        "Location" : "Warehouse 3, batch 6",
+        "Expiry-time" : "35"
+    },
+    {
+        "Name" : "Ice Cream",
+        "ID" : "25FDR65",
+        "Expiry" : "45 Days",
+        "Status" : "In-stock",
+        "Quantity" : "42",
+        "Location" : "Warehouse 1, batch 8",
+        "Expiry-time" : "45"
+    }
+]

@@ -1,0 +1,38 @@
+.Charts{
+    margin-left: 325px;
+    font-family: 'Raleway';
+}
+.General-text{
+    text-align: center;
+    /* text-decoration: underline; */
+    padding: 1.5em;
+    font-size: 35px;
+    color: #363636;
+    font-weight: 900;
+    padding-bottom: 15px;
+}
+.Bar-chart{
+    padding: 1.5em;
+    text-align: center;
+}
+.Bar-chart p{
+    color: #363636;
+    font-weight: 100;
+    font-size: 22px;
+    padding: 10px;
+}
+.line-chart p{
+    font-size: 22px;
+    font-weight: 100;
+    color: #363636;
+    padding: 12px;
+    padding-top: 22px;
+}
+.line-chart {
+    padding: 2em;
+    text-align: center;
+    align-items: center;
+}
+.line-chart div{
+    align-self: center;
+}

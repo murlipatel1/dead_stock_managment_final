@@ -1,4 +1,4 @@
-# Dead-Stock-Management| A MERN STACK PROJECT
+# Dead-Stock-Management | A MERN STACK PROJECT
 
 For Running on your System, Clone the Repository
 <ul>
